@@ -8,6 +8,7 @@ Os recursos que foram utilizados foram:
 2. JPA/Hibernate
 3. Linguagem Java
 4. MySQL
+5. Postman para testes
 
 Configurações do banco:
 1. Nome do banco de dados: "gestaodecontatos"

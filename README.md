@@ -8,3 +8,8 @@ Os recursos que foram utilizados foram:
 2. JPA/Hibernate
 3. Linguagem Java
 4. MySQL
+
+Configurações do banco
+Nome do banco de dados: "gestaodecontatos"
+Usuário: root
+Sem senha

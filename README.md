@@ -9,7 +9,7 @@ Os recursos que foram utilizados foram:
 3. Linguagem Java
 4. MySQL
 
-Configurações do banco
-Nome do banco de dados: "gestaodecontatos"
-Usuário: root
-Sem senha
+Configurações do banco:
+1. Nome do banco de dados: "gestaodecontatos"
+2. Usuário: root
+3. Sem senha

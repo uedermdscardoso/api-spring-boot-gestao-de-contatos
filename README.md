@@ -1,7 +1,7 @@
 # API para Gestão de Contatos
 Treinamento e estudos
 
-Observação: Não tem interface porque o projeto foi criado para fazer a API e os arquivos estão no BRANCH develop.
+Observação: Não tem interface porque o projeto foi criado para fazer a API e os arquivos estão no branch develop.
 
 Os recursos que foram utilizados foram: 
 1. Spring boot
